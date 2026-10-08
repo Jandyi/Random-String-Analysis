@@ -114,6 +114,7 @@ This project demonstrates fundamental programming concepts including:
 - Result classification
 - Console-based user interfaces
 
-## Archived
+## Project Information
 
-This repository is preserved as an example of earlier C# and programming work.
+* **Status:** Completed
+* **Developed:** 2024
